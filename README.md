@@ -12,7 +12,8 @@
   </div>
    
  ---
-    
+    Hi there 👋
+- 👋 Hi, I’m Brian Koech.
 - 🔭 I’m currently a Software developer a building projects using Spring boot, flutter and Angular and focusing on blockchain technical writing.
 - 🌱 I’m currently learning how to build scalable smart contracts on Ethereum blockchain using Solidity at Alchemy University
 - 👯 I’m looking to collaborate on open-source projects especially good first issues on Javascript, blockchain development, Spring boot, Angular and flutter.
