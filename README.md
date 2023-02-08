@@ -14,10 +14,10 @@
  ---
     Hi there 👋
 - 👋 Hi, I’m Collins Kiplimo.
-- 🔭 I’m currently a Software developer a building projects using Spring boot, flutter and Angular and focusing on blockchain technical writing.
+- 🔭 I’m currently a Software developer a building projects using Spring boot, flutter and Angular and focusing on GraphQL technical writing.
 - 🌱 I’m currently learning how to build scalable smart contracts on Ethereum blockchain using Solidity at Alchemy University
-- 👯 I’m looking to collaborate on open-source projects especially good first issues on Javascript, blockchain development, Spring boot, Angular and flutter.
-- 🤔 I’m looking for help with proper building of APIs and getting started with smart contract development on networks like Ethereum.
+- 👯 I’m looking to collaborate on open-source projects especially good first issues on Tyscript, Spring boot, Angular and flutter.
+- 🤔 I’m looking for help with proper building of APIs.
 - 📫 How to reach me: kiplimocollins855@gmail.com 
 - ⚡ Fun fact: I support African music to the World : 🎓 I am a CS student.
 
