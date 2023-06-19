@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Collins Kiplimo.
-- 🔭 I’m currently a Software developer a building projects using Spring boot,Golang,flutter and Angular and focucusing on   technical writing.
+- 🔭 I’m currently a Software developer a building projects using Spring boot,Golang,flutter and Angular and focucusing on technical writing.
 - 📫 How to reach me: kiplimocollins855@gmail.com 
 
  
