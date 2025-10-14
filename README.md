@@ -2,7 +2,7 @@
 
 I am a **Backend Engineer and Open Source Developer** with 5+ years of experience building APIs, distributed systems, and cloud-native applications. I specialize in **Java, Kotlin, and Python**, with hands-on expertise in designing **scalable microservices, CI/CD pipelines, and event-driven architectures**.  
 
-I am passionate about **open-source, automation, and sharing knowledge** through projects, blogging, and technical talks.  
+I am passionate about **open-source, automation, and sharing knowledge** through projects and blogging.  
 
 ---
 
