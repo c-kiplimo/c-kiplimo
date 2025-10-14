@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Collins Kiplimo.I am wired to lead and build. My passion lies in building innovative teams,fostering innovation and being brave in charting our own path.
-- 🔭 I’m currently a Software developer a building projects using  Java,Kotlin and focusing on technical writing.
-- 📫 How to reach me: limokcollins@gmail.com 
+I am a  Software Engineer and Open Source Developer with over 5 years of experience in software development. I have extensive experience in designing and implementing distributed systems and cloud-native applications on top of cutting-edge technologies. I am passionate about sharing knowledge through open-source projects, blogging.
 
  
 
