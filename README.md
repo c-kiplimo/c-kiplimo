@@ -1,6 +1,6 @@
 # Hi there, I'm Collins Kiplimo 👋
 
-I am a **Backend Engineer and Open Source Developer** with 7+ years of experience building APIs, distributed systems, and cloud-native applications. I specialize in **Java, Kotlin, Golang, and C#**, with hands-on expertise in designing **scalable microservices, CI/CD pipelines, and event-driven architectures**.  
+I am a **Backend Engineer and Open Source Developer** with 5+ years of experience building APIs, distributed systems, and cloud-native applications. I specialize in **Java, Kotlin, and Python**, with hands-on expertise in designing **scalable microservices, CI/CD pipelines, and event-driven architectures**.  
 
 I am passionate about **open-source, automation, and sharing knowledge** through projects, blogging, and technical talks.  
 
@@ -29,13 +29,6 @@ I am passionate about **open-source, automation, and sharing knowledge** through
 
 ## 📊 GitHub Stats
 
-![Collins' GitHub stats](https://github-readme-stats.vercel.app/api?username=c-kiplimo&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c-kiplimo&layout=compact&theme=radical)
 
 ---
-
-## 📫 Contact Me
-
-- [GitHub](https://github.com/c-kiplimo)  
-- [LinkedIn](https://www.linkedin.com/in/collins-kiplimo)  
