@@ -17,18 +17,4 @@ I am passionate about **open-source, automation, and sharing knowledge** through
 - 📜 [Logging Service](https://github.com/c-kiplimo/logging--service) – Centralized logging for microservices  
 - 🎫 [Tickety](https://github.com/c-kiplimo/Tickety) – Event ticketing system  
 
----
 
-## 🛠 Professional Skills
-
-**Languages & Frameworks:** Java, Kotlin, Golang, C#, JavaScript, TypeScript  
-**Cloud & DevOps:** Azure, Docker, Kubernetes, CI/CD, GitHub Actions  
-**Databases & Messaging:** PostgreSQL, MongoDB, Redis, SQL Server, RabbitMQ, Kafka  
-
----
-
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c-kiplimo&layout=compact&theme=radical)
-
----
